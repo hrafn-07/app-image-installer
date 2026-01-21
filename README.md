@@ -19,12 +19,12 @@ This script automates the process of installing AppImage applications by:
 
 1. Download the script:
    ```bash
-   wget https://example.com/install-appimage.sh
+   git clone https://github.com/hrafn-07/app-image-installer.git app-image-installer
    ```
 
 2. Make it executable:
    ```bash
-   chmod +x install-appimage.sh
+   cd app-image-installer && chmod +x install-appimage.sh
    ```
 
 ## Usage
