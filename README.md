@@ -24,7 +24,7 @@ This script automates the process of installing AppImage applications by:
 
 2. Make it executable:
    ```bash
-   cd app-image-installer && chmod +x install-appimage.sh
+   cd app-image-installer && chmod +x appimage_installer.sh
    ```
 
 ## Usage
